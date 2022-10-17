@@ -1,0 +1,12 @@
+tensorflow
+numpy
+opencv-python
+h5py
+typing-extensions
+matplotlib_inline
+IPython
+lxml
+tqdm
+seaborn
+pillow
+shapely
